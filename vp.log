@@ -1,0 +1,3 @@
+[2016/04/19 19:20:10] [warning] Language dir not found: C:\Users\SATELLITE C55A\actividadidaira\..\UserLanguage
+[2016/04/19 19:20:11] [warning] Fail to copy product_edition.properties into IDE installation directory. 
+If you found that the IDE Integration fail to start in correction then please try to run your IDE with admin/root permission.
